@@ -20,8 +20,8 @@
 <div>
   <h4>GitHub Stats:</h4>
   <div style="display: flex; justify-content: space-between; align-items: flex-start; flex-wrap: wrap;">
-    <img alt="aimedivin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aimedivin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" style="height: 165px;" />
-    <img alt="aimedivin's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teta Linda&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="height: 165px;" />
+    <img alt="Teta kinda's Github Stats" src="https://github-readme-stats.vercel.app/api?username=aimedivin&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" style="height: 165px;" />
+    <img alt="Teta linda's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Teta Linda&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" style="height: 165px;" />
   </div>
 </div>
 
